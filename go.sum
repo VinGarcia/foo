@@ -1,3 +1,5 @@
 github.com/vingarcia/bar v0.0.0-20210319140615-8fcd2b6f0aa2 h1:/KoioQfXuOAgLgHuI6h0lamAGgLNvwEy7M3u0AibqgQ=
 github.com/vingarcia/bar v0.0.0-20210319140615-8fcd2b6f0aa2/go.mod h1:dGxJlXjorv5xxDnCtpwf3soY1ERXfuPcsAsmAlFD7Bk=
+github.com/vingarcia/bar v0.0.0-20210319141020-f2796843fdf1 h1:bIQH7QqtLtsIY46mLHbFrDM7ImrgVvRO2AoBvTgIxgw=
+github.com/vingarcia/bar v0.0.0-20210319141020-f2796843fdf1/go.mod h1:dGxJlXjorv5xxDnCtpwf3soY1ERXfuPcsAsmAlFD7Bk=
 github.com/vingarcia/foo v0.0.0-20210319140331-207deb833be8/go.mod h1:ed4DR2FgomSwq9XErgEaMGDIV+PQ3GeKvrKl3Ta83V8=
