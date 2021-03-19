@@ -3,6 +3,8 @@ package foo
 import (
 	"fmt"
 	"net/http"
+
+	"github.com/vingarcia/bar"
 )
 
 func Main() {
@@ -12,6 +14,8 @@ func Main() {
 		fmt.Fprintln(w, "VinGarcia says Oi Caio!!")
 		fmt.Printf("received request: %#v\n", r)
 	})
+
+	fmt.Println(bar.Bar{})
 
 	http.ListenAndServe(":"+port, nil)
 }
